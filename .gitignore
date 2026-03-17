@@ -1,0 +1,24 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+ios/Pods/
+
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Model files (IMPORTANT)
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
